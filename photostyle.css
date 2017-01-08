@@ -1,0 +1,36 @@
+img{
+	width:204px;
+	height:154px;
+}
+
+th{
+	font-family:Cursive;
+	font-size:2em;
+}
+
+div{
+	height:50px;
+	width:120px;
+	border-color:#6495ED;
+	background-color:#BCD2EE;
+	border-width:10px;
+	border-radius:5px;
+	text-align:center;
+	margin:auto;
+}
+
+table{
+	margin:auto;
+}
+
+a{
+	text-decoration:none;
+	color:#3D59AB;
+	font-family:Verdana, sans-serif;
+}
+
+span{
+	font-weight:bold;
+	font-size:18px;
+	color:#FFFFff;
+}
